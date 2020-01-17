@@ -1,0 +1,7 @@
+#Compiler
+*.pdb
+*.cache
+
+#Project
+Meteordemo/obj/
+MeteorUiLib/obj/
